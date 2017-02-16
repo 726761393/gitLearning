@@ -1,0 +1,6 @@
+
+计算数值用count（）。
+四则运算最终结果用 result().
+输出题目用writecount().
+符号用sign（）。sign。
+ifneed是答案
