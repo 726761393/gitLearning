@@ -26,15 +26,16 @@ while(getline(p,temp))
 p.close();
 cin>>language;
 if(language=='C')
-	i=1;
+	j=1;
 else if(language=='E')
-	i=11;
+	j=11;
 else if(language=='J')
-	i=21;
+	j=21;
 else if(language=='A')
-	i=31;
-else i=41;
+	j=31;
+else j=41;
 p.open(url);
+i=1;
 while(getline(p,url))
 {
 	if(i>=j+2&&i<j+9){
