@@ -1,0 +1,50 @@
+中文 //1行
+####请问小朋友是使用什么语言呢呢？(输入英文首字母)####
+####欢迎小朋友的到来#### 
+####是否开始训练（Y/N）####
+####小朋友再见####
+####小朋友真棒,回答正确,是否继续答题（Y/N）####
+####小朋友一共答对了  题,欢迎再来训练，再见！####
+####好可惜，算错了，不要灰心，继续努力，正确答案是
+好厉害，小朋友一共答对了 题。再见！
+10
+英语 //11
+# # # # is children, please use which of language? (input English initials) # # # # 
+ # # # # Welcome children # # # #
+# # # # #Whether to start the training # # #  (Y/N) 
+# # # # children goodbye # # # # 
+# # # # children are great, the correct answer, whether to continue the answer (Y/N) # # # # 
+# # # # children were right, welcome to train again, goodbye! # # # # 
+# # # # good unfortunately, wrong, don't lose heart, continue to work hard, is the right answer 
+Well, children were right. Good bye! 
+20
+日语  //21
+### 求める子供何語ですか。 (英語の頭文字を入力して) ###
+### 場合トレーニング (y/n) を開始 ###
+### 子供さよなら ###
+### 子供の到着を歓迎 ###
+### 子供が質問を持っている、さようなら再度トレーニングへようこそ! ####
+### 素晴らしい子供たちが正解か答え (y/n) ###
+### 良い残念ながら、間違っている、正しい答えは、彼らの努力を継続する心を失わないように
+良い子は全体での質問に答えます。 さようなら！
+30
+德语  //31
+Gute Kinder Fragen insgesamt. Auf Wiedersehen!
+### Fragen Kinder, welche Sprache es ist? (Geben Sie die englischen Initialen) ###
+### Begrü?en die Ankunft der Kinder ###
+### If beginnen Sie Ihr Training (j/n) ###
+### Kinder Abschied ###
+### Tolle Kinder, richtig beantwortet, Sie wollen Antwort (y/n) ###
+### Kinder haben noch Fragen, Willkommen im training wieder, Bye! ####
+### Gut leider, falsch, und nicht den um Mut, um ihre Bemühungen fortsetzen zu verlieren ist der richtigen Antwort
+40
+法语  //41
+### Demandez aux élèves quelle langue il est?? (Entrez le sigle anglais) ###
+### Bienvenue l’arrivée des enfants ###
+### If commencer la formation (o/n) ###
+### Au revoir enfants ###
+### Awesome kids, a répondu correctement, vous voulez réponse (o/n) ###
+### Enfants ont vous avez des questions, Bienvenue à la formation de nouveau, bye?! ####
+### Bon malheureusement, mal, et pour ne pas perdre courage, et de poursuivre leurs efforts, la bonne réponse est
+Enfants sages répondent aux questions au total. Au revoir?!
+
